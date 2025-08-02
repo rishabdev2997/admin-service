@@ -26,7 +26,7 @@ public class SecurityConfig {
         http
                 .csrf(csrf -> csrf.disable())
                 .authorizeHttpRequests(auth -> auth
-                        .requestMatchers("/actuator/**").permitAll()
+                        .requestMatchers("/actuator/**", "/ping").permitAll()
                         .anyRequest().hasRole("ADMIN")
                 )
                 .oauth2ResourceServer(oauth2 -> oauth2

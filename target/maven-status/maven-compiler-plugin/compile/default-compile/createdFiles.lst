@@ -1,6 +1,7 @@
 com\example\admin_service\AdminServiceApplication.class
 com\example\admin_service\config\RestConfig.class
 com\example\admin_service\controller\AdminController.class
+com\example\admin_service\controller\HealthController.class
 com\example\admin_service\dto\UserDTO.class
 com\example\admin_service\service\AdminServiceImpl.class
 com\example\admin_service\dto\TrainDTO.class

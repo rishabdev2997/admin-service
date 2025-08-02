@@ -1,6 +1,7 @@
 E:\Rishab\Deploying\train-booking-system\admin-service\admin_service\src\main\java\com\example\admin_service\AdminServiceApplication.java
 E:\Rishab\Deploying\train-booking-system\admin-service\admin_service\src\main\java\com\example\admin_service\config\RestConfig.java
 E:\Rishab\Deploying\train-booking-system\admin-service\admin_service\src\main\java\com\example\admin_service\controller\AdminController.java
+E:\Rishab\Deploying\train-booking-system\admin-service\admin_service\src\main\java\com\example\admin_service\controller\HealthController.java
 E:\Rishab\Deploying\train-booking-system\admin-service\admin_service\src\main\java\com\example\admin_service\dto\BookingRequestDTO.java
 E:\Rishab\Deploying\train-booking-system\admin-service\admin_service\src\main\java\com\example\admin_service\dto\BookingSummaryDTO.java
 E:\Rishab\Deploying\train-booking-system\admin-service\admin_service\src\main\java\com\example\admin_service\dto\TrainDTO.java
